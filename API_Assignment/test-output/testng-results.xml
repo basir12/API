@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4762" started-at="2019-06-19T22:26:24Z" finished-at="2019-06-19T22:26:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4762" started-at="2019-06-19T22:26:24Z" finished-at="2019-06-19T22:26:29Z">
+      <class name="com.pages.Add_Book_assignments">
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:com.pages.Add_Book_assignments@4678c730]" name="beforMethod" is-config="true" duration-ms="643" started-at="2019-06-19T18:26:24Z" finished-at="2019-06-19T18:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="auntintication()[pri:0, instance:com.pages.Add_Book_assignments@4678c730]" name="auntintication" duration-ms="2438" started-at="2019-06-19T18:26:25Z" finished-at="2019-06-19T18:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auntintication -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:com.pages.Add_Book_assignments@4678c730]" name="beforMethod" is-config="true" duration-ms="1" started-at="2019-06-19T18:26:27Z" finished-at="2019-06-19T18:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="getBook()[pri:0, instance:com.pages.Add_Book_assignments@4678c730]" name="getBook" duration-ms="1633" started-at="2019-06-19T18:26:27Z" finished-at="2019-06-19T18:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBook -->
+      </class> <!-- com.pages.Add_Book_assignments -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
